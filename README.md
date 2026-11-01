@@ -64,11 +64,13 @@ I'm a software developer passionate about **Artificial Intelligence, Machine Lea
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chandanpatel23
+&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanpatel23
+&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=chandanpatel23&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -87,7 +89,7 @@ I'm a software developer passionate about **Artificial Intelligence, Machine Lea
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanpatel23&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -101,7 +103,7 @@ I'm a software developer passionate about **Artificial Intelligence, Machine Lea
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/chandanpatel23">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -115,6 +117,6 @@ I'm a software developer passionate about **Artificial Intelligence, Machine Lea
 
 **Thanks for visiting my profile! Let's build something amazing together. 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=chandanpatel23&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
