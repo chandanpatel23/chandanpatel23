@@ -60,62 +60,52 @@ I'm a software developer passionate about **Artificial Intelligence, Machine Lea
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandanpatel23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanpatel23&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=chandanpatel23&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
+🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=chandanpatel23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
+📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanpatel23&theme=tokyo-night&hide_border=true" />
 
 </div>
 
----
-
-## 🤝 Let's Connect
+🤝 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/chandanpatel23">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+</a>
 
 <a href="mailto:chandanpatel23@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/><br/>
 
-</div>
+💡 Learn Continuously. Build Fearlessly. Innovate Always.
 
----
-
-<div align="center">
-
-### 💡 "Code. Learn. Build. Innovate."
-
-**Thanks for visiting my profile! Let's build something amazing together. 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=chandanpatel23&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" />
 
 </div>
