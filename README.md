@@ -78,8 +78,7 @@ I'm a software developer passionate about **Artificial Intelligence, Machine Lea
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+<img src="https://ghstats.dev/api/card?username=chandanpatel23&theme=tokyonight" />
 </div>
 
 ---
