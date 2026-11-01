@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="profile-banner.png"
+    alt="Chandan Singh Patel - AI and Software Developer"
+    width="100%"
+  />
+</p>
+
 # 👋 Hey, I'm Chandan Singh Patel
 
 <div align="center">
