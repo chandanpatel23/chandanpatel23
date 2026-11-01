@@ -93,15 +93,6 @@ I'm a software developer passionate about **Artificial Intelligence, Machine Lea
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanpatel23&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
